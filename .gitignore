@@ -1,3 +1,12 @@
+yourproject
+
+CMakeCache.txt
+CMakeFiles
+CMakeScripts
+Makefile
+cmake_install.cmake
+install_manifest.txt
+
 # Compiled Object files
 *.slo
 *.lo

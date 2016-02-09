@@ -1,0 +1,3 @@
+[submodule "cmake-ext"]
+	path = cmake-ext
+	url = https://github.com/karel-brinda/cmake-ext
